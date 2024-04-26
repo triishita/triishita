@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <h1>Hello there, I'm Trishita Yadav</h1>
+  <p>[briefly describe yourself and your interests]</p>
+</div>
+
 <!--
 **triishita/triishita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
